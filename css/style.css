@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.body {
+    background-color: aqua;
+    font-family: 'Pacifico', cursive;
+}
+.hw {
+    background-color: brown;
+    font-family: 'Pacifico', cursive;
+    font-size: 16px;
+}
+.table .clowncolor {
+    background-color: green;
+    color: linen;
+}
+.table .clowncolor::placeholder {
+    color: rgb(0, 0, 0);
+}
+.gap {
+    margin: 10px 10px;
+}
+.hw a:hover {
+    color: tomato;
+}
+.zalupa:hover {
+    color: tomato;
+    transform: rotate(360deg);
+}
+.zalupa {
+    transition: 2s;
+    display: inline-block;
+}
+.billy:hover {
+    border-radius: 50px;
+}
+.billy {
+    transition: 5s;
+}
