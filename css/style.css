@@ -4,9 +4,25 @@
     background-color: aqua;
     font-family: 'Caveat', cursive;
 }
-.hw {
+.danil:hover {
+    color: tomato;
+    transform:scale(150%);
+    padding-left: 50px;
+}
+.danil {
+    transition: 2s;
+    display: inline-block;
+    color: hotpink;
+}    
+.dop {
     color: green;
-    font-size: 20px;
+    transition: 2s;
+    display: inline-block;
+}
+.dop:hover {
+    color: tomato;
+    transform:scale(150%);
+    padding-left: 50px;
 }
 .table .clowncolor {
     background-color: green;
@@ -18,9 +34,6 @@
 .gap {
     margin: 10px 10px;
 }
-.hw a:hover {
-   color: green;
-}
 .zalupa:hover {
     color: tomato;
     transform:scale(150%);
@@ -29,13 +42,71 @@
 .zalupa {
     transition: 2s;
     display: inline-block;
+    color: hotpink;
+}
+.ruk:hover {
+    color: tomato;
+    transform:scale(150%);
+    padding-left: 50px;
+}
+.ruk {
+    transition: 2s;
+    display: inline-block;
+    color: hotpink;
+}
+.san:hover {
+    color: tomato;
+    transform:scale(150%);
+    padding-left: 50px;
+}
+.san {
+    transition: 2s;
+    display: inline-block;
+    color: hotpink;
+}
+.och:hover {
+    color: tomato;
+    transform:scale(150%);
+    padding-left: 50px;
+}
+.och {
+    transition: 2s;
+    display: inline-block;
+    color: hotpink;
+}
+.blad:hover {
+    color: tomato;
+    transform:scale(150%);
+    padding-left: 50px;
+}
+.blad {
+    transition: 2s;
+    display: inline-block;
+    color: hotpink;
+}
+.vag:hover {
+    color: tomato;
+    transform:scale(150%);
+    padding-left: 50px;
+}
+.vag {
+    transition: 2s;
+    display: inline-block;
+    color: hotpink;
+}
+.mat:hover {
+color: tomato;
+transform:scale(150%);
+padding-left: 50px;
+}
+.mat {
+    color: hotpink;
+    transition: 2s;
+    display: inline-block;
 }
 .billy:hover {
     border-radius: 50px;
 }
 .billy {
     transition: 5s;
-}
-.zalupa {
-    color: hotpink;
 }
