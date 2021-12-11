@@ -105,8 +105,8 @@ padding-left: 50px;
     display: inline-block;
 }
 .billy:hover {
-    border-radius: 50px;
+    border-radius: 500px;
 }
 .billy {
-    transition: 5s;
+    transition: 2s;
 }
